@@ -127,7 +127,7 @@ export const TESTIMONIALS = [
 ];
 
 export const SOCIAL_LINKS = [
-  { label: "GitHub",   href: "https://github.com/souravroy",            icon: "🐙" },
+  { label: "GitHub",   href: "https://roy",            icon: "🐙" },
   { label: "LinkedIn", href: "https://linkedin.com/in/souravroy",       icon: "🔗" },
   { label: "Twitter",  href: "https://twitter.com/souravroy",           icon: "🐦" },
   { label: "Dribbble", href: "https://dribbble.com/souravroy",          icon: "🎨" },
@@ -138,5 +138,5 @@ export const CONTACT_INFO = [
   { label: "Email",    value: "souravroy201104@gmail.com",          href: "mailto:sourav@example.com", icon: "📧" },
   { label: "WhatsApp", value: "+880 15189 25767",             href: "#",                         icon: "💬" },
   { label: "LinkedIn", value: "linkedin.com/in/souravroy",   href: "#",                         icon: "🔗" },
-  { label: "GitHub",   value: "github.com/souravroy",        href: "#",                         icon: "🐙" },
+  { label: "GitHub",   value: "https://github.com/souravroy201104",        href: "#",                         icon: "🐙" },
 ];
